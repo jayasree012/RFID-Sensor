@@ -3,3 +3,8 @@ A RFID based attendance tracking system by interfacing the RFID sensor(RC522) wi
 The marked attendance can be viewed using a web application developed using php, HTML and CSS. The user can view the attendance
 •	By date
 •	By student roll no 
+
+Uploaded Files:
+rfid.uno-reads data from the RFID sensor
+rfid.py-reads from the serial monitor and stores the data
+attendanceSystem-php files for the app
